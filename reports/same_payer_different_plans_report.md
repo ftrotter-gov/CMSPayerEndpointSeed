@@ -1,6 +1,6 @@
 # Same Payer, Different Plans — Report
 
-_Generated: 2026-11-02 02:33:34_
+_Generated: 2026-11-02 02:51:37_
 
 **Identity rule:** A payer is uniquely identified by its **Federated Payer Identifier (FPI)**. Directory names are for human convenience only. The intended design is **one file per payer**: plans with different endpoint sets are placed in separate `plan_groups` within that single file, and plans sharing the same endpoint set belong in the same `plan_group`. The same FPI appearing in multiple files is an anomaly worth review.
 

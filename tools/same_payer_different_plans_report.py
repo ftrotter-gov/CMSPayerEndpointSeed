@@ -99,12 +99,15 @@ for filepath in all_files:
             value = ident.get("value", "")
             if system == FPI_SYSTEM_URL:
                 fpi = value
-                # The multi-FPI format carries payerLegalName on the FPI
-                # identifier entry rather than at the top level of the document.
-                legal_name = ident.get("payerLegalName") or legal_name
             else:
                 label = system.split("/")[-1] if "/" in system else system
                 other_ids.append((label, value))
+
+            # The multi-FPI format carries payerLegalName on the identifier
+            # entries rather than at the top level of the document.  The first
+            # name encountered is taken as the name for the whole file.
+            if legal_name is None and ident.get("payerLegalName"):
+                legal_name = ident["payerLegalName"]
 
         # Fall back to the top-level key for any older file that still uses it.
         if not legal_name:
