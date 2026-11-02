@@ -6,6 +6,23 @@ Please contact Fred Trotter through the [CMS Health Tech Ecosystem](https://www.
 
 The initial version of this repo is a port from the same functionality previously stored in the [Federated Payer Identifier](https://github.com/ftrotter-gov/FederatedPayerIdentifier) repo.
 
+## Understanding the data format
+
+The .well-known file format used to model payer data in this model is intended to be compatible with the data structures defined for Payers, Plans, Networks and Endpoints in the [FAST FHIR NDH IG Standard](https://build.fhir.org/ig/HL7/fhir-us-ndh/en/resourceRelationship.html). 
+
+It is enough data to programatically route from a health insurance card (physicial or digital) to the correct Payer Endpoints associated with those cards.
+
+Please read about the [.well-known data format on the FederatedPayerIdentfier repo](https://github.com/ftrotter-gov/FederatedPayerIdentifier/blob/main/WellKnownFileFormat.md).
+
+
+## Correcting Payer Data
+
+If you are NOT the payer in question you can submit [general Data Correction Request pull request here](REPLACEME)
+
+If you ARE the payer in question you should submit a [Payer Data Correction Request](REPLACEME)
+
+
+
 ## Contents
 
 * [`payer_index_files/`](payer_index_files) — the trusted working copies of the
