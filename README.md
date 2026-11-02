@@ -17,14 +17,20 @@ Please read about the [.well-known data format on the FederatedPayerIdentfier re
 
 ## Correcting Payer Data
 
-If you are NOT the payer in question you can submit [general Data Correction Request pull request here](REPLACEME)
+To request a correction to the payer data in this repository — whether or not
+you are the payer in question — see [DataCorrections.md](DataCorrections.md).
+It covers both pull request templates and how to submit one.
 
-If you ARE the payer in question you should submit a [Payer Data Correction Request](REPLACEME)
+For National Provider Directory data that is not payer data and is not in this
+repository, use the **Feedback** button on
+[directory.cms.gov](https://directory.cms.gov) instead.
 
 
 
 ## Contents
 
+* [`DataCorrections.md`](DataCorrections.md) — how to request a correction to
+  the payer data in this repository.
 * [`payer_index_files/`](payer_index_files) — the trusted working copies of the
   payer well-known index files, organized by plan category.
 * [`tools/`](tools) — the scripts that generate, enrich, clean, and report on
