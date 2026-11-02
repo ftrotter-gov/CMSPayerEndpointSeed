@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir-app-portal.villagecare.aidbox.io/mpf-provider-directory/H2168/2026/index.json |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir-app-portal.villagecare.aidbox.io/mpf-provider-directory/H2168/2027/index.json |
 
 **Plans (3):**
 

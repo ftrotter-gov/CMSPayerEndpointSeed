@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H3219/index.json |
 
 **Plans (11):**
 
@@ -30,7 +30,7 @@
 | H3219-008 | Allina Health Aetna Medicare Signature Fit (PPO) |
 | H3219-012 | Allina Health Aetna Medicare Signature (PPO) |
 | H3219-014 | Allina Health Aetna Medicare Enhanced (PPO) |
-| H3219-801 | Allina Health Aetna Medicare Plan (PPO) |
 | H3219-015 | Allina Health Aetna Medicare Chronic (PPO C-SNP) |
 | H3219-016 | Allina Health Aetna Medicare Value (PPO C-SNP) |
+| H3219-801 | Allina Health Aetna Medicare Plan (PPO) |
 

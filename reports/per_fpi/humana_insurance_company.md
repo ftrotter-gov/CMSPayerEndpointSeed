@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (330):**
 
@@ -62,7 +62,6 @@
 | H5216-120 | HumanaChoice H5216-120 (PPO) |
 | H5216-124 | Humana Full Access H5216-124 (PPO) |
 | H5216-128 | Humana USAA Honor Giveback (PPO) |
-| H5216-456 | Humana Value Choice H5216-456 (PPO) |
 | H5216-132 | Humana Value Choice H5216-132 (PPO) |
 | H5216-136 | HumanaChoice H5216-136 (PPO) |
 | H5216-138 | HumanaChoice Giveback H5216-138 (PPO) |
@@ -107,8 +106,6 @@
 | H5216-228 | HumanaChoice SNP-DE H5216-228 (PPO D-SNP) |
 | H5216-229 | HumanaChoice H5216-229 (PPO) |
 | H5216-231 | HumanaChoice H5216-231 (PPO) |
-| H5216-464 | HumanaChoice H5216-464 (PPO) |
-| H5216-465 | HumanaChoice H5216-465 (PPO) |
 | H5216-234 | Humana USAA Honor Giveback (PPO) |
 | H5216-235 | Humana USAA Honor Giveback (PPO) |
 | H5216-236 | Humana USAA Honor Giveback (PPO) |
@@ -149,7 +146,6 @@
 | H5216-296 | HumanaChoice SNP-DE H5216-296 (PPO D-SNP) |
 | H5216-298 | Humana Dual Select H5216-298 (PPO D-SNP) |
 | H5216-300 | HumanaChoice H5216-300 (PPO) |
-| H5216-455 | Humana USAA Honor Giveback (PPO) |
 | H5216-302 | HumanaChoice SNP-DE H5216-302 (PPO D-SNP) |
 | H5216-304 | HumanaChoice Florida H5216-304 (PPO) |
 | H5216-305 | Humana USAA Honor Giveback with Rx (PPO) |
@@ -264,9 +260,20 @@
 | H5216-450 | HumanaChoice H5216-450 (PPO) |
 | H5216-451 | Humana Value Choice H5216-451 (PPO) |
 | H5216-452 | Humana Direct Choice Giveback (PPO) |
+| H5216-453 | Humana Together in Health Select (PPO I-SNP) |
+| H5216-455 | Humana USAA Honor Giveback (PPO) |
+| H5216-456 | Humana Value Choice H5216-456 (PPO) |
 | H5216-457 | HumanaChoice H5216-457 (PPO) |
 | H5216-459 | HumanaChoice SNP-DE H5216-459 (PPO D-SNP) |
+| H5216-461 | HumanaChoice H5216-461 (PPO) |
+| H5216-463 | HumanaChoice H5216-463 (PPO) |
+| H5216-464 | HumanaChoice H5216-464 (PPO) |
+| H5216-465 | HumanaChoice H5216-465 (PPO) |
 | H5216-466 | HumanaChoice H5216-466 (PPO) |
+| H5216-467 | Humana USAA Honor Giveback (PPO) |
+| H5216-468 | HumanaChoice SNP-DE H5216-468 (PPO D-SNP) |
+| H5216-469 | HumanaChoice SNP-DE H5216-469 (PPO D-SNP) |
+| H5216-470 | HumanaChoice SNP-DE H5216-470 (PPO D-SNP) |
 | H5216-805 | Humana Medicare Employer (PPO) |
 | H5216-806 | Humana Medicare Employer (PPO) |
 | H5216-808 | Humana Medicare Employer (PPO) |
@@ -279,13 +286,6 @@
 | H5216-818 | Humana Medicare Employer (PPO) |
 | H5216-821 | Humana Medicare Employer (PPO) |
 | H5216-824 | Humana Medicare Employer (PPO) |
-| H5216-453 | Humana Together in Health Select (PPO I-SNP) |
-| H5216-461 | HumanaChoice H5216-461 (PPO) |
-| H5216-463 | HumanaChoice H5216-463 (PPO) |
-| H5216-467 | Humana USAA Honor Giveback (PPO) |
-| H5216-468 | HumanaChoice SNP-DE H5216-468 (PPO D-SNP) |
-| H5216-469 | HumanaChoice SNP-DE H5216-469 (PPO D-SNP) |
-| H5216-470 | HumanaChoice SNP-DE H5216-470 (PPO D-SNP) |
 | H8145-004 | Humana Gold Choice H8145-004 (PFFS) |
 | H8145-006 | Humana Gold Choice H8145-006 (PFFS) |
 | H8145-032 | Humana Gold Choice H8145-032 (PFFS) |

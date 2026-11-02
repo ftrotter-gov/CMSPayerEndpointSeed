@@ -16,24 +16,12 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (115):**
 
 | Plan ID | Plan Name |
 |---------|-----------|
-| H7617-801 | Humana Medicare Employer (PPO) |
-| H7617-802 | Humana Medicare Employer (PPO) |
-| H7617-803 | Humana Medicare Employer (PPO) |
-| H7617-804 | Humana Medicare Employer (PPO) |
-| H7617-805 | Humana Medicare Employer (PPO) |
-| H7617-806 | Humana Medicare Employer (PPO) |
-| H7617-807 | Humana Medicare Employer (PPO) |
-| H7617-808 | Humana Medicare Employer (PPO) |
-| H7617-811 | Humana Medicare Employer (PPO) |
-| H7617-812 | Humana Medicare Employer (PPO) |
-| H7617-817 | Humana Medicare Employer (PPO) |
-| H7617-818 | Humana Medicare Employer (PPO) |
 | H7617-003 | HumanaChoice Giveback H7617-003 (PPO) |
 | H7617-004 | HumanaChoice H7617-004 (PPO) |
 | H7617-005 | Humana USAA Honor Giveback with Rx (PPO) |
@@ -137,4 +125,16 @@
 | H7617-111 | Humana Full Access Giveback H7617-111 (PPO) |
 | H7617-112 | Humana Direct Choice Giveback (PPO) |
 | H7617-113 | HumanaChoice Florida SNP-DE H7617-113 (PPO D-SNP) |
+| H7617-801 | Humana Medicare Employer (PPO) |
+| H7617-802 | Humana Medicare Employer (PPO) |
+| H7617-803 | Humana Medicare Employer (PPO) |
+| H7617-804 | Humana Medicare Employer (PPO) |
+| H7617-805 | Humana Medicare Employer (PPO) |
+| H7617-806 | Humana Medicare Employer (PPO) |
+| H7617-807 | Humana Medicare Employer (PPO) |
+| H7617-808 | Humana Medicare Employer (PPO) |
+| H7617-811 | Humana Medicare Employer (PPO) |
+| H7617-812 | Humana Medicare Employer (PPO) |
+| H7617-817 | Humana Medicare Employer (PPO) |
+| H7617-818 | Humana Medicare Employer (PPO) |
 

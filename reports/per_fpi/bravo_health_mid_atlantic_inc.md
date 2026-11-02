@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://data.healthspring.healthlx.com:8003/ |
+| cms_provider_directory_machine_readable_format_endpoint | https://mpf.healthspring.com/H2108/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://data.healthspring.healthlx.com:8003 |
 
 **Plans (9):**
 
@@ -28,7 +29,7 @@
 | H2108-036 | HealthSpring Alliance (HMO) |
 | H2108-041 | HealthSpring TotalCare Plus (HMO D-SNP) |
 | H2108-042 | HealthSpring Preferred (HMO) |
-| H2108-801 | HealthSpring Preferred (HMO) |
 | H2108-044 | HealthSpring Courage (HMO) |
 | H2108-045 | HealthSpring Courage (HMO) |
+| H2108-801 | HealthSpring Preferred (HMO) |
 

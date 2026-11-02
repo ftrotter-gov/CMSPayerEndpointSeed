@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://api-tihp-prd.safhir.io/v1/api/provider-directory/metadata |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://api-tihp-prd.safhir.io/v1/api/provider-directory |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://api-tihp-prd.safhir.io/v1/api/provider-directory/cms-hpms-manifest/H5015-001-001 |
 
 **Plans (2):**
 

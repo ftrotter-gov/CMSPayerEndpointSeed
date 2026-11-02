@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H3152/index.json |
 
 **Plans (8):**
 

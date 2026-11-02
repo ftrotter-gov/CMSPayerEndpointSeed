@@ -16,14 +16,14 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H8649/index.json |
 
 **Plans (4):**
 
 | Plan ID | Plan Name |
 |---------|-----------|
 | H8649-010 | Aetna Medicare Full Dual (HMO D-SNP) |
+| H8649-013 | Aetna Medicare Signature (HMO) |
 | H8649-801 | Aetna Altius Medicare Plan w/Rx (HMO) |
 | H8649-803 | Aetna Altius Medicare Plan (HMO) |
-| H8649-013 | Aetna Medicare Signature (HMO) |
 

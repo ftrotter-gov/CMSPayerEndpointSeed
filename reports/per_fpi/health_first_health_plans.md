@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://epicproxy-np.et1433.epichosted.com/FHIRProxyTST/api/FHIR/BulkPublish/Public/PlanNet |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://epicproxy.et1433.epichosted.com/FHIRProxyPRD/api/FHIR/R4/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://apps.hf.org/applications/dn/cms_json/files/tic/provider_urls.json |
 
 **Plans (11):**
 

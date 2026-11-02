@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H1609/index.json |
 
 **Plans (51):**
 
@@ -50,8 +50,6 @@
 | H1609-064 | Aetna Medicare Dual Select (HMO D-SNP) |
 | H1609-068 | Aetna Medicare Value Care (HMO-POS) |
 | H1609-069 | Aetna Medicare Signature Extra (HMO-POS) |
-| H1609-801 | Aetna Medicare Plan (HMO) |
-| H1609-807 | Aetna Medicare Plan w/Rx (HMO) |
 | H1609-073 | Aetna Medicare Full Dual Select (HMO D-SNP) |
 | H1609-074 | Aetna Medicare Full Dual Select (HMO D-SNP) |
 | H1609-075 | Aetna Medicare Full Dual Select (HMO D-SNP) |
@@ -73,4 +71,6 @@
 | H1609-092 | Aetna Medicare Full Dual Select (HMO D-SNP) |
 | H1609-093 | Aetna Medicare Select (HMO) |
 | H1609-094 | Aetna Medicare Chronic Care (HMO C-SNP) |
+| H1609-801 | Aetna Medicare Plan (HMO) |
+| H1609-807 | Aetna Medicare Plan w/Rx (HMO) |
 

@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (46):**
 
@@ -42,7 +42,6 @@
 | H0028-042 | Humana Gold Plus H0028-042 (HMO) |
 | H0028-043 | Humana Gold Plus H0028-043 (HMO) |
 | H0028-046 | Humana Gold Plus H0028-046 (HMO) |
-| H0028-082 | Humana Gold Plus H0028-082 (HMO) |
 | H0028-051 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
 | H0028-053 | Humana Gold Plus H0028-053 (HMO) |
 | H0028-054 | Humana Gold Plus H0028-054 (HMO-POS) |
@@ -62,10 +61,11 @@
 | H0028-077 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
 | H0028-078 | Humana Dual Select H0028-078 (HMO D-SNP) |
 | H0028-079 | Humana Dual Select H0028-079 (HMO D-SNP) |
+| H0028-080 | Humana Gold Plus SNP-DE H0028-080 (HMO D-SNP) |
 | H0028-081 | Humana Total Complete H0028-081 (HMO) |
+| H0028-082 | Humana Gold Plus H0028-082 (HMO) |
 | H0028-801 | Humana Medicare Employer (HMO) |
 | H0028-802 | Humana Medicare Employer (HMO) |
 | H0028-804 | Humana Medicare Employer (HMO) |
 | H0028-805 | Humana Medicare Employer (HMO) |
-| H0028-080 | Humana Gold Plus SNP-DE H0028-080 (HMO D-SNP) |
 

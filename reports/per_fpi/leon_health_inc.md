@@ -17,6 +17,7 @@
 | Key | Value |
 |-----|-------|
 | davinci_pdex_provider_directory_endpoint#1.1 | https://data.healthlx.com:8004/LEONHEALTH/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://providerdirectory.healthlx.com/LEONHEALTH/H4286/2027/index.json |
 
 **Plans (4):**
 

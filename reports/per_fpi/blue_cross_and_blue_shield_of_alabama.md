@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://employers.bcbsal.org/portal/documents/d/guest/index-json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://api-bcbsal-prd.safhir.io/v1/api/provider-directory |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.bcbsal.org/mpf/provider_directory_index.json |
 
 **Plans (12):**
 

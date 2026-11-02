@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H3597/index.json |
 
 **Plans (7):**
 
@@ -25,8 +25,8 @@
 | H3597-001 | Aetna Medicare Signature (HMO-POS) |
 | H3597-011 | Aetna Medicare Full Dual (HMO-POS D-SNP) |
 | H3597-012 | Aetna Medicare Partial Dual (HMO-POS D-SNP) |
-| H3597-801 | Aetna Medicare Plan (HMO) |
-| H3597-802 | Aetna Medicare Plan w/Rx (HMO) |
 | H3597-017 | Aetna Medicare Enhanced (HMO-POS) |
 | H3597-018 | Aetna Medicare Signature (HMO-POS) |
+| H3597-801 | Aetna Medicare Plan (HMO) |
+| H3597-802 | Aetna Medicare Plan w/Rx (HMO) |
 

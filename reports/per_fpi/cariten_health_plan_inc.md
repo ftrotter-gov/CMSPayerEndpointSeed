@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (50):**
 
@@ -32,10 +32,6 @@
 | H4461-041 | Humana Gold Plus H4461-041 (HMO) |
 | H4461-042 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
 | H4461-043 | Humana Total Complete H4461-043 (HMO) |
-| H4461-806 | Humana Medicare Employer (HMO) |
-| H4461-807 | Humana Medicare Employer (HMO) |
-| H4461-810 | Humana Medicare Employer (HMO) |
-| H4461-811 | Humana Medicare Employer (HMO) |
 | H4461-044 | Humana Gold Plus SNP-DE H4461-044 (HMO-POS D-SNP) |
 | H4461-045 | Humana Essentials Plus Giveback H4461-045 (HMO) |
 | H4461-046 | Humana Total Complete H4461-046 (HMO) |
@@ -72,4 +68,8 @@
 | H4461-077 | Humana Dual Select H4461-077 (HMO D-SNP) |
 | H4461-078 | Humana Gold Plus H4461-078 (HMO) |
 | H4461-079 | Humana Gold Plus H4461-079 (HMO) |
+| H4461-806 | Humana Medicare Employer (HMO) |
+| H4461-807 | Humana Medicare Employer (HMO) |
+| H4461-810 | Humana Medicare Employer (HMO) |
+| H4461-811 | Humana Medicare Employer (HMO) |
 

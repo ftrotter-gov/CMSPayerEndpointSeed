@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (19):**
 
@@ -26,6 +26,9 @@
 | H5970-020 | HumanaChoice SNP-DE H5970-020 (PPO D-SNP) |
 | H5970-028 | HumanaChoice H5970-028 (PPO) |
 | H5970-029 | HumanaChoice H5970-029 (PPO) |
+| H5970-030 | HumanaChoice Giveback H5970-030 (PPO) |
+| H5970-031 | Humana Direct Choice Giveback (PPO) |
+| H5970-032 | Humana Direct Choice GIveback (PPO) |
 | H5970-801 | Humana Medicare Employer (PPO) |
 | H5970-802 | Humana Medicare Employer (PPO) |
 | H5970-805 | Humana Medicare Employer (PPO) |
@@ -38,7 +41,4 @@
 | H5970-823 | Humana Medicare Employer (PPO) |
 | H5970-828 | Humana Medicare Employer (PPO) |
 | H5970-829 | Humana Medicare Employer (PPO) |
-| H5970-030 | HumanaChoice Giveback H5970-030 (PPO) |
-| H5970-031 | Humana Direct Choice Giveback (PPO) |
-| H5970-032 | Humana Direct Choice GIveback (PPO) |
 

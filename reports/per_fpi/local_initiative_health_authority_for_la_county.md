@@ -17,6 +17,7 @@
 | Key | Value |
 |-----|-------|
 | davinci_pdex_provider_directory_endpoint#1.1 | https://us107.ir4.edifecscloud.com/lac/fhir/pd/R4/Practitioner |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://us107.ir4.edifecscloud.com/lac_cmsreport/H1224/index.json |
 
 **Plans (1):**
 

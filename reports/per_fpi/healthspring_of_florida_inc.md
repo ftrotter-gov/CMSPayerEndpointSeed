@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://data.healthspring.healthlx.com:8003/ |
+| cms_provider_directory_machine_readable_format_endpoint | https://mpf.healthspring.com/H5410/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://data.healthspring.healthlx.com:8003 |
 
 **Plans (17):**
 
@@ -36,7 +37,7 @@
 | H5410-047 | HealthSpring TotalCare Plus (HMO D-SNP) |
 | H5410-055 | HealthSpring TotalCare (HMO D-SNP) |
 | H5410-056 | HealthSpring TotalCare (HMO D-SNP) |
-| H5410-808 | HealthSpring Preferred (HMO) |
 | H5410-059 | HealthSpring Preferred (HMO) |
 | H5410-060 | HealthSpring Preferred (HMO) |
+| H5410-808 | HealthSpring Preferred (HMO) |
 

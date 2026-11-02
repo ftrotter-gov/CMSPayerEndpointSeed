@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://us120.fhir.m2.edifecsfedcloud.com/dhcp_pd/PractitionerRole |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://us120.fhir.m2.edifecsfedcloud.com/dhcp_pd |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://us120.fhir.m2.edifecsfedcloud.com/dhcp_cmsreport/H4140/index.json |
 
 **Plans (9):**
 

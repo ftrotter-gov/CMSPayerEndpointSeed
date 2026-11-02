@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://inno-cms-prd-pb.s3.us-east-1.amazonaws.com/bcbsaz_2027/index.json |
+| cms_provider_directory_machine_readable_format_endpoint | https://edge.sitecorecloud.io/bluecross-6f8ea2ea/media/json/h0302/index.json |
 
 **Plans (4):**
 

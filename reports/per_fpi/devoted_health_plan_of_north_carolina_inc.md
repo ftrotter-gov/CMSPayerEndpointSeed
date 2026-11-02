@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.devoted.com/H5299/2026 |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.devoted.com/fhir |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.devoted.com/H5299/2027 |
 
 **Plans (11):**
 
@@ -40,7 +41,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.devoted.com/H9700/2026 |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.devoted.com/fhir |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.devoted.com/H9700/2027 |
 
 **Plans (9):**
 

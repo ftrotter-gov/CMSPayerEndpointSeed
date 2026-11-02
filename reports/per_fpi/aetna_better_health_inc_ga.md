@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H3146/index.json |
 
 **Plans (22):**
 
@@ -34,7 +34,6 @@
 | H3146-021 | Aetna Medicare Signature Care (HMO) |
 | H3146-022 | Aetna Medicare Full Dual Care (HMO D-SNP) |
 | H3146-023 | Aetna Medicare Full Dual Care (HMO D-SNP) |
-| H3146-801 | Aetna Medicare Plan (HMO) |
 | H3146-036 | Aetna Medicare Chronic Care Total (HMO C-SNP) |
 | H3146-037 | Aetna Medicare Chronic Care (HMO C-SNP) |
 | H3146-038 | Aetna Medicare Chronic Care (HMO C-SNP) |
@@ -44,4 +43,5 @@
 | H3146-044 | Aetna Medicare Chronic Care Value (HMO C-SNP) |
 | H3146-046 | Aetna Medicare Enhanced (HMO) |
 | H3146-047 | Aetna Medicare Enhanced (HMO) |
+| H3146-801 | Aetna Medicare Plan (HMO) |
 

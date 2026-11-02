@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H3192/index.json |
 
 **Plans (12):**
 
@@ -30,8 +30,8 @@
 | H3192-013 | Aetna Medicare Signature (HMO-POS) |
 | H3192-020 | Aetna Medicare Signature (HMO-POS) |
 | H3192-021 | Aetna Medicare Prime Care (HMO-POS) |
-| H3192-801 | Aetna Medicare Plan (HMO) |
 | H3192-028 | Aetna Medicare Chronic Care Total (HMO C-SNP) |
 | H3192-029 | Aetna Medicare Chronic Care Total (HMO C-SNP) |
 | H3192-033 | Aetna Medicare Chronic Care (HMO C-SNP) |
+| H3192-801 | Aetna Medicare Plan (HMO) |
 

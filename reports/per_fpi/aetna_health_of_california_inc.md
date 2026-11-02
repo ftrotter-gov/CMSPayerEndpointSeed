@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H0523/index.json |
 
 **Plans (15):**
 
@@ -28,8 +28,6 @@
 | H0523-073 | Aetna Medicare Prime (HMO-POS) |
 | H0523-074 | Aetna Medicare Value Plus (HMO-POS) |
 | H0523-075 | Aetna Medicare Prime (HMO-POS) |
-| H0523-801 | Aetna Medicare Plan (HMO) |
-| H0523-805 | Aetna Medicare Plan w/Rx (HMO) |
 | H0523-083 | Aetna Medicare Enhanced (HMO-POS) |
 | H0523-085 | Aetna Medicare Prime (HMO-POS) |
 | H0523-086 | Aetna Medicare Signature Extra (HMO) |
@@ -37,4 +35,6 @@
 | H0523-089 | Aetna Medicare Signature Extra (HMO) |
 | H0523-091 | Aetna Medicare Signature Extra (HMO) |
 | H0523-092 | Aetna Medicare Signature Extra (HMO) |
+| H0523-801 | Aetna Medicare Plan (HMO) |
+| H0523-805 | Aetna Medicare Plan w/Rx (HMO) |
 

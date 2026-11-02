@@ -92,15 +92,23 @@ for filepath in all_files:
             continue
 
         fpi = None
+        legal_name = None
         other_ids = []
         for ident in data.get("identifier", []):
             system = ident.get("system", "")
             value = ident.get("value", "")
             if system == FPI_SYSTEM_URL:
                 fpi = value
+                # The multi-FPI format carries payerLegalName on the FPI
+                # identifier entry rather than at the top level of the document.
+                legal_name = ident.get("payerLegalName") or legal_name
             else:
                 label = system.split("/")[-1] if "/" in system else system
                 other_ids.append((label, value))
+
+        # Fall back to the top-level key for any older file that still uses it.
+        if not legal_name:
+            legal_name = data.get("payerLegalName") or "UNKNOWN"
 
         # Retain full plan_groups structure (plan_identifiers + plan_endpoints together)
         raw_plan_groups = []
@@ -128,7 +136,7 @@ for filepath in all_files:
             "rel_file": rel,
             "filename": os.path.basename(filepath),
             "category": category,
-            "legal_name": data.get("payerLegalName", "UNKNOWN"),
+            "legal_name": legal_name,
             "fpi": fpi,
             "other_ids": other_ids,
             "plan_ids": plan_ids_flat,

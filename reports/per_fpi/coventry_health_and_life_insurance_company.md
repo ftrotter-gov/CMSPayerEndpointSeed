@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H1608/index.json |
 
 **Plans (38):**
 
@@ -54,10 +54,10 @@
 | H1608-085 | Aetna Medicare Premier (PPO) |
 | H1608-105 | Aetna Medicare Signature (PPO) |
 | H1608-109 | Aetna Medicare Elite (PPO) |
-| H1608-120 | Aetna Medicare Signature (PPO) |
-| H1608-801 | Aetna Medicare Plan (PPO) |
 | H1608-117 | Aetna Medicare Enhanced Extra (PPO) |
 | H1608-118 | Aetna Medicare Enhanced Extra (PPO) |
 | H1608-119 | Aetna Medicare Enhanced Extra (PPO) |
+| H1608-120 | Aetna Medicare Signature (PPO) |
 | H1608-121 | Aetna Medicare Full Dual (PPO D-SNP) |
+| H1608-801 | Aetna Medicare Plan (PPO) |
 

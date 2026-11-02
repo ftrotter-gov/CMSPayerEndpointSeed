@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H2663/index.json |
 
 **Plans (33):**
 
@@ -48,11 +48,11 @@
 | H2663-064 | Aetna Medicare Value Plus (HMO) |
 | H2663-067 | Aetna Medicare Signature Care (HMO) |
 | H2663-069 | Aetna Medicare Eagle (HMO-POS) |
-| H2663-805 | Aetna Medicare Plan (HMO) |
 | H2663-097 | Aetna Medicare Full Dual Care (HMO D-SNP) |
 | H2663-098 | Aetna Medicare Chronic Care (HMO C-SNP) |
 | H2663-099 | Aetna Medicare Chronic Care Total (HMO C-SNP) |
 | H2663-100 | Aetna Medicare Chronic Care (HMO C-SNP) |
 | H2663-102 | Aetna Medicare Chronic Care (HMO C-SNP) |
 | H2663-103 | Aetna Medicare Signature (HMO-POS) |
+| H2663-805 | Aetna Medicare Plan (HMO) |
 

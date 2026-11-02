@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://d17y0kd1bpes7q.cloudfront.net/cms-mpf/CY2027/H1722/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://hf-fhir-provider-directory-sys-api-prod.us-e1.cloudhub.io |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://hf-provider-directory-fhir.healthfirst.org/cms-mpf/CY2027/H1722/index.json |
 
 **Plans (1):**
 
@@ -30,7 +31,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://d17y0kd1bpes7q.cloudfront.net/cms-mpf/CY2027/H3359/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://hf-fhir-provider-directory-sys-api-prod.us-e1.cloudhub.io |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://hf-provider-directory-fhir.healthfirst.org/cms-mpf/CY2027/H3359/index.json |
 
 **Plans (7):**
 
@@ -50,7 +52,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://d17y0kd1bpes7q.cloudfront.net/cms-mpf/CY2027/H5989/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://hf-fhir-provider-directory-sys-api-prod.us-e1.cloudhub.io |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://hf-provider-directory-fhir.healthfirst.org/cms-mpf/CY2027/H5989/index.json |
 
 **Plans (1):**
 

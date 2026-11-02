@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://solisapigwprovider.azurewebsites.net/api/provider-directory/H0982/001/000/fhir.json |
+| cms_provider_directory_machine_readable_format_endpoint | https://solisapigwprovider.azurewebsites.net/api/provider-directory/2027/H0982/machine-readable/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://solisapigwprovider.azurewebsites.net/api/provider-directory/2027/H0982/fhir/index.json |
 
 **Plans (24):**
 

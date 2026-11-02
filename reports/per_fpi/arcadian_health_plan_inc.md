@@ -16,15 +16,15 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (74):**
 
 | Plan ID | Plan Name |
 |---------|-----------|
 | H4939-001 | Humana PathWays Dual Care (HMO-POS D-SNP) |
-| H4939-003 | Humana Gold Plus SNP-DE H4939-003 (HMO-POS D-SNP) |
 | H4939-002 | Humana Dual Select H4939-002 (HMO-POS D-SNP) |
+| H4939-003 | Humana Gold Plus SNP-DE H4939-003 (HMO-POS D-SNP) |
 | H5619-001 | Humana Gold Plus H5619-001 (HMO) |
 | H5619-003 | Humana Gold Plus SNP-DE H5619-003 (HMO D-SNP) |
 | H5619-012 | Humana Gold Plus H5619-012 (HMO) |
@@ -60,7 +60,6 @@
 | H5619-122 | Humana Gold Plus H5619-122 (HMO) |
 | H5619-123 | Humana Gold Plus SNP-DE H5619-123 (HMO-POS D-SNP) |
 | H5619-126 | Humana Dual Select H5619-126 (HMO-POS D-SNP) |
-| H5619-184 | Humana Gold Plus H5619-184 (HMO) |
 | H5619-133 | Humana Gold Plus H5619-133 (HMO) |
 | H5619-135 | Humana Gold Plus H5619-135 (HMO) |
 | H5619-137 | Humana Gold Plus H5619-137 (HMO) |
@@ -87,13 +86,14 @@
 | H5619-174 | Humana Gold Plus H5619-174 (HMO) |
 | H5619-177 | Humana Total Complete H5619-177 (HMO) |
 | H5619-178 | Humana Gold Plus H5619-178 (HMO) |
-| H5619-802 | Humana Medicare Employer (HMO) |
-| H5619-803 | Humana Medicare Employer (HMO) |
-| H5619-805 | Humana Medicare Employer (HMO) |
-| H5619-806 | Humana Medicare Employer (HMO) |
 | H5619-179 | Humana Gold Plus SNP-DE H5619-179 (HMO-POS D-SNP) |
 | H5619-180 | Humana Gold Plus H5619-180 (HMO) |
 | H5619-181 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
 | H5619-182 | Humana Gold Plus SNP-DE H5619-182 (HMO D-SNP) |
 | H5619-183 | Humana Gold Plus H5619-183 (HMO) |
+| H5619-184 | Humana Gold Plus H5619-184 (HMO) |
+| H5619-802 | Humana Medicare Employer (HMO) |
+| H5619-803 | Humana Medicare Employer (HMO) |
+| H5619-805 | Humana Medicare Employer (HMO) |
+| H5619-806 | Humana Medicare Employer (HMO) |
 

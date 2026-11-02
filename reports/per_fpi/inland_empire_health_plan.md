@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.iehp.org/provider-directory |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.iehp.org/provider-directory/metadata?_format=json |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.iehp.org/mpf/H8894/2027/index.json |
 
 **Plans (1):**
 

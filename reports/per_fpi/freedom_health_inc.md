@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://stgwusconnectstgsa002.blob.core.windows.net/freedom-provider-directory-2026/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://api.aaneelconnect.com/cms/r4/freedom-provider-directory-2027 |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://stgwus2connectprdsa001.blob.core.windows.net/freedom-providerdirectory-2027/index.json |
 
 **Plans (25):**
 

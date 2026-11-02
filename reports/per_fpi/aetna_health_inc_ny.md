@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H3312/index.json |
 
 **Plans (19):**
 
@@ -37,8 +37,8 @@
 | H3312-087 | Aetna Medicare Full Dual (HMO D-SNP) |
 | H3312-089 | Aetna Medicare Partial Dual (HMO D-SNP) |
 | H3312-090 | Aetna Medicare Partial Dual Care (HMO D-SNP) |
-| H3312-801 | Aetna Medicare Plan (HMO) |
-| H3312-804 | Aetna Medicare Plan w/Rx (HMO) |
 | H3312-091 | Aetna Medicare Chronic Care (HMO C-SNP) |
 | H3312-097 | Aetna Medicare Signature (HMO) |
+| H3312-801 | Aetna Medicare Plan (HMO) |
+| H3312-804 | Aetna Medicare Plan w/Rx (HMO) |
 

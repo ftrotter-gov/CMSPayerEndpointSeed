@@ -12,11 +12,7 @@
 
 ### Plan Group 1 of 1
 
-**Endpoints:**
-
-| Key | Value |
-|-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://api-ahp-prd.safhir.io/v1/api/provider-directory/metadata |
+**Endpoints:** _(none specified)_
 
 **Plans (1):**
 

@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.devoted.com/H7993/2026 |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.devoted.com/fhir |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.devoted.com/H7993/2027 |
 
 **Plans (32):**
 
@@ -26,7 +27,6 @@
 | H7993-002 | DEVOTED PREMIUM 002 TX (HMO) |
 | H7993-003 | DEVOTED CORE 003 TX (HMO) |
 | H7993-004 | DEVOTED CORE 004 TX (HMO) |
-| H7993-046 | DEVOTED C-SNP 046 TX (HMO C-SNP) |
 | H7993-006 | DEVOTED GIVEBACK 006 TX (HMO) |
 | H7993-007 | DEVOTED CORE 007 TX (HMO) |
 | H7993-008 | DEVOTED GIVEBACK 008 TX (HMO) |
@@ -53,5 +53,6 @@
 | H7993-038 | DEVOTED DUAL FULL 038 TX (HMO D-SNP) |
 | H7993-040 | DEVOTED DUAL FULL 040 TX (HMO D-SNP) |
 | H7993-041 | DEVOTED DUAL FULL 041 TX (HMO D-SNP) |
+| H7993-046 | DEVOTED C-SNP 046 TX (HMO C-SNP) |
 | H7993-048 | DEVOTED GIVEBACK 048 TX (HMO) |
 

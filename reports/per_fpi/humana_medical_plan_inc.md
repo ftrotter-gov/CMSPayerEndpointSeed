@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (108):**
 
@@ -64,7 +64,6 @@
 | H1036-285 | Humana Gold Plus SNP-DE H1036-285 (HMO D-SNP) |
 | H1036-286 | Humana Gold Plus Giveback H1036-286 (HMO) |
 | H1036-290 | Humana USAA Honor Giveback (HMO) |
-| H1036-335 | Humana Gold Plus H1036-335 (HMO-POS) |
 | H1036-292 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
 | H1036-297 | Humana Gold Plus Lung (HMO C-SNP) |
 | H1036-298 | Humana Gold Plus Lung (HMO C-SNP) |
@@ -86,7 +85,29 @@
 | H1036-316 | Humana Gold Plus Lung (HMO C-SNP) |
 | H1036-317 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
 | H1036-318 | Humana Gold Plus Giveback H1036-318 (HMO-POS) |
+| H1036-319 | Humana Gold Plus Giveback H1036-319 (HMO) |
+| H1036-320 | Humana Gold Plus SNP-DE H1036-320 (HMO D-SNP) |
+| H1036-321 | Humana Gold Plus H1036-321 (HMO) |
+| H1036-322 | Humana Gold Plus H1036-322 (HMO) |
+| H1036-323 | Humana Gold Plus Giveback H1036-323 (HMO) |
+| H1036-324 | Humana Gold Plus SNP-DE H1036-324 (HMO D-SNP) |
+| H1036-325 | Humana Gold Plus SNP-DE H1036-325 (HMO D-SNP) |
+| H1036-326 | Humana Gold Plus SNP-DE H1036-326 (HMO D-SNP) |
+| H1036-327 | Humana Gold Plus H1036-327 (HMO) |
 | H1036-328 | Humana Gold Plus SNP-DE H1036-328 (HMO D-SNP) |
+| H1036-329 | Humana Dual Select H1036-329 (HMO D-SNP) |
+| H1036-330 | Humana Gold Plus Chronic Kidney Disease (HMO C-SNP) |
+| H1036-331 | Humana Gold Plus SNP-DE H1036-331 (HMO D-SNP) |
+| H1036-332 | Humana Community (HMO) |
+| H1036-333 | Humana Gold Plus H1036-333 (HMO) |
+| H1036-334 | Humana Gold Plus Giveback H1036-334 (HMO) |
+| H1036-335 | Humana Gold Plus H1036-335 (HMO-POS) |
+| H1036-336 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
+| H1036-337 | Humana Gold Plus Lung (HMO C-SNP) |
+| H1036-338 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
+| H1036-339 | Humana Dual Integrated (HMO D-SNP) |
+| H1036-340 | Humana Dual Integrated (HMO D-SNP) |
+| H1036-341 | Humana Dual Integrated (HMO D-SNP) |
 | H1036-801 | Humana Medicare Employer (HMO) |
 | H1036-806 | Humana Medicare Employer (HMO) |
 | H1036-810 | Humana Medicare Employer (HMO) |
@@ -109,25 +130,4 @@
 | H1036-829 | Humana Medicare Employer (HMO) |
 | H1036-832 | Humana Medicare Employer (HMO) |
 | H1036-833 | Humana Medicare Employer (HMO) |
-| H1036-319 | Humana Gold Plus Giveback H1036-319 (HMO) |
-| H1036-320 | Humana Gold Plus SNP-DE H1036-320 (HMO D-SNP) |
-| H1036-321 | Humana Gold Plus H1036-321 (HMO) |
-| H1036-322 | Humana Gold Plus H1036-322 (HMO) |
-| H1036-323 | Humana Gold Plus Giveback H1036-323 (HMO) |
-| H1036-324 | Humana Gold Plus SNP-DE H1036-324 (HMO D-SNP) |
-| H1036-325 | Humana Gold Plus SNP-DE H1036-325 (HMO D-SNP) |
-| H1036-326 | Humana Gold Plus SNP-DE H1036-326 (HMO D-SNP) |
-| H1036-327 | Humana Gold Plus H1036-327 (HMO) |
-| H1036-329 | Humana Dual Select H1036-329 (HMO D-SNP) |
-| H1036-330 | Humana Gold Plus Chronic Kidney Disease (HMO C-SNP) |
-| H1036-331 | Humana Gold Plus SNP-DE H1036-331 (HMO D-SNP) |
-| H1036-332 | Humana Community (HMO) |
-| H1036-333 | Humana Gold Plus H1036-333 (HMO) |
-| H1036-334 | Humana Gold Plus Giveback H1036-334 (HMO) |
-| H1036-336 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
-| H1036-337 | Humana Gold Plus Lung (HMO C-SNP) |
-| H1036-338 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
-| H1036-339 | Humana Dual Integrated (HMO D-SNP) |
-| H1036-340 | Humana Dual Integrated (HMO D-SNP) |
-| H1036-341 | Humana Dual Integrated (HMO D-SNP) |
 

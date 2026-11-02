@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://s3.us-east-1.amazonaws.com/cms.providerimport/ProvidorUrlIndex.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://achealthdataservices-providerdirectory.fhir.azurehealthcareapis.com/metadata |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://s3.us-east-1.amazonaws.com/cms.providerimport/index.json |
 
 **Plans (10):**
 

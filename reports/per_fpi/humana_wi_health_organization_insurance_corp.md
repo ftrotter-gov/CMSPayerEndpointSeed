@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (59):**
 
@@ -58,8 +58,6 @@
 | H6622-057 | Humana Gold Plus H6622-057 (HMO-POS) |
 | H6622-060 | Humana Gold Plus H6622-060 (HMO-POS) |
 | H6622-061 | Humana Gold Plus H6622-061 (HMO-POS) |
-| H6622-100 | Humana Gold Plus H6622-100 (HMO) |
-| H6622-099 | Humana Gold Plus H6622-099 (HMO) |
 | H6622-071 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
 | H6622-075 | Humana Gold Plus H6622-075 (HMO) |
 | H6622-078 | Humana Gold Plus SNP-DE H6622-078 (HMO D-SNP) |
@@ -74,11 +72,13 @@
 | H6622-091 | Humana Total Complete H6622-091 (HMO) |
 | H6622-094 | Humana USAA Honor Giveback (HMO) |
 | H6622-095 | Humana Gold Plus H6622-095 (HMO) |
+| H6622-097 | Humana Total Complete H6622-097 (HMO) |
+| H6622-098 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
+| H6622-099 | Humana Gold Plus H6622-099 (HMO) |
+| H6622-100 | Humana Gold Plus H6622-100 (HMO) |
+| H6622-101 | Humana Gold Plus SNP-DE H6622-101 (HMO D-SNP) |
 | H6622-801 | Humana Medicare Employer (HMO) |
 | H6622-802 | Humana Medicare Employer (HMO) |
 | H6622-804 | Humana Medicare Employer (HMO) |
 | H6622-805 | Humana Medicare Employer (HMO) |
-| H6622-097 | Humana Total Complete H6622-097 (HMO) |
-| H6622-098 | Humana Gold Plus - Diabetes and Heart (HMO C-SNP) |
-| H6622-101 | Humana Gold Plus SNP-DE H6622-101 (HMO D-SNP) |
 

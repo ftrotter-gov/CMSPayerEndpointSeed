@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://apif1.aetna.com/fhir/v1/providerdirectorydata/ |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://www.aetna.com/interoperability/2027/H0628/index.json |
 
 **Plans (26):**
 
@@ -36,9 +36,6 @@
 | H0628-021 | Aetna Medicare Signature (HMO-POS) |
 | H0628-024 | Aetna Medicare Signature (HMO-POS) |
 | H0628-027 | Aetna Medicare Enhanced (HMO-POS) |
-| H0628-040 | Aetna Medicare Partial Dual (HMO D-SNP) |
-| H0628-041 | Aetna Medicare Partial Dual (HMO D-SNP) |
-| H0628-801 | Aetna Medicare Plan (HMO) |
 | H0628-031 | Aetna Medicare Chronic Care Total (HMO C-SNP) |
 | H0628-032 | Aetna Medicare Chronic Care Total (HMO C-SNP) |
 | H0628-033 | Aetna Medicare Chronic Care Total (HMO C-SNP) |
@@ -48,4 +45,7 @@
 | H0628-037 | Aetna Medicare Chronic Care (HMO C-SNP) |
 | H0628-038 | Aetna Medicare Chronic Care (HMO C-SNP) |
 | H0628-039 | Aetna Medicare Chronic Care (HMO C-SNP) |
+| H0628-040 | Aetna Medicare Partial Dual (HMO D-SNP) |
+| H0628-041 | Aetna Medicare Partial Dual (HMO D-SNP) |
+| H0628-801 | Aetna Medicare Plan (HMO) |
 

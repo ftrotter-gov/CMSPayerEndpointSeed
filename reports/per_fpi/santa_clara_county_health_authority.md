@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.scfhp.com/providerAPI/swagger-ui/ |
+| cms_provider_directory_machine_readable_format_endpoint | https://apps1.scfhp.com/providersearch/api/providers/download?ContractID=H4045&ContractYear=2027 |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.scfhp.com/providerAPI |
 
 **Plans (1):**
 

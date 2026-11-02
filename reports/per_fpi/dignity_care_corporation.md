@@ -16,6 +16,7 @@
 
 | Key | Value |
 |-----|-------|
+| cms_provider_directory_machine_readable_format_endpoint | https://directory.amhealthplans.com/mpfdir/H8492/index.json |
 | davinci_pdex_provider_directory_endpoint#1.1 | https://api-ahp-prd.safhir.io/v1/api/provider-directory/metadata |
 
 **Plans (1):**

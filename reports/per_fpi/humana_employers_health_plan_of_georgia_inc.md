@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (11):**
 
@@ -27,10 +27,10 @@
 | H4141-017 | Humana Gold Plus H4141-017 (HMO) |
 | H4141-022 | Humana Gold Plus Giveback H4141-022 (HMO) |
 | H4141-023 | Humana Gold Plus H4141-023 (HMO) |
+| H4141-024 | Humana Gold Plus SNP-DE H4141-024 (HMO D-SNP) |
+| H4141-025 | Humana Gold Plus SNP-DE H4141-025 (HMO D-SNP) |
 | H4141-801 | Humana Medicare Employer (HMO) |
 | H4141-802 | Humana Medicare Employer (HMO) |
 | H4141-805 | Humana Medicare Employer (HMO) |
 | H4141-806 | Humana Medicare Employer (HMO) |
-| H4141-024 | Humana Gold Plus SNP-DE H4141-024 (HMO D-SNP) |
-| H4141-025 | Humana Gold Plus SNP-DE H4141-025 (HMO D-SNP) |
 

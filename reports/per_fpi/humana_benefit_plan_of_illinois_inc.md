@@ -16,7 +16,7 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://fhir.humana.com/api |
+| davinci_pdex_provider_directory_endpoint_all_at_once#1.1 | https://fhir.humana.com/api |
 
 **Plans (55):**
 
@@ -35,7 +35,6 @@
 | H5525-005 | HumanaChoice H5525-005 (PPO) |
 | H5525-006 | HumanaChoice H5525-006 (PPO) |
 | H5525-008 | HumanaChoice H5525-008 (PPO) |
-| H5525-086 | HumanaChoice H5525-086 (PPO) |
 | H5525-030 | HumanaChoice H5525-030 (PPO) |
 | H5525-031 | Humana USAA Honor Giveback (PPO) |
 | H5525-034 | Humana Full Access H5525-034 (PPO) |
@@ -51,7 +50,6 @@
 | H5525-054 | HumanaChoice H5525-054 (PPO) |
 | H5525-056 | HumanaChoice H5525-056 (PPO) |
 | H5525-057 | Humana USAA Honor Giveback with Rx (PPO) |
-| H5525-085 | HumanaChoice Giveback H5525-085 (PPO) |
 | H5525-059 | Humana USAA Honor Giveback with Rx (PPO) |
 | H5525-065 | Humana USAA Honor Giveback (PPO) |
 | H5525-070 | HumanaChoice H5525-070 (PPO) |
@@ -64,6 +62,9 @@
 | H5525-080 | HumanaChoice H5525-080 (PPO) |
 | H5525-083 | HumanaChoice H5525-083 (PPO) |
 | H5525-084 | HumanaChoice H5525-084 (PPO) |
+| H5525-085 | HumanaChoice Giveback H5525-085 (PPO) |
+| H5525-086 | HumanaChoice H5525-086 (PPO) |
+| H5525-087 | HumanaChoice H5525-087 (PPO) |
 | H5525-809 | Humana Medicare Employer (PPO) |
 | H5525-810 | Humana Medicare Employer (PPO) |
 | H5525-812 | Humana Medicare Employer (PPO) |
@@ -76,5 +77,4 @@
 | H5525-827 | Humana Medicare Employer (PPO) |
 | H5525-830 | Humana Medicare Employer (PPO) |
 | H5525-831 | Humana Medicare Employer (PPO) |
-| H5525-087 | HumanaChoice H5525-087 (PPO) |
 

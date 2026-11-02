@@ -16,7 +16,8 @@
 
 | Key | Value |
 |-----|-------|
-| davinci_pdex_provider_directory_endpoint#1.1 | https://data.healthspring.healthlx.com:8003/ |
+| cms_provider_directory_machine_readable_format_endpoint | https://mpf.healthspring.com/H0672/index.json |
+| davinci_pdex_provider_directory_endpoint#1.1 | https://data.healthspring.healthlx.com:8003 |
 
 **Plans (11):**
 
@@ -31,6 +32,6 @@
 | H0672-016 | HealthSpring Preferred Savings (HMO) |
 | H0672-017 | HealthSpring Preferred Savings (HMO) |
 | H0672-018 | HealthSpring TotalCare Plus (HMO D-SNP) |
-| H0672-801 | HealthSpring Preferred (HMO) |
 | H0672-024 | HealthSpring Preferred (HMO) |
+| H0672-801 | HealthSpring Preferred (HMO) |
 
