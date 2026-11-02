@@ -12,51 +12,25 @@ Quality Guidelines.
 | National Provider Directory data that is NOT payer data and is NOT in this repository | Use the **Feedback** button on [directory.cms.gov](https://directory.cms.gov) |
 | General data quality requests unrelated to the National Provider Directory | Email [infoquality@cms.hhs.gov](mailto:infoquality@cms.hhs.gov) |
 
-## Submit a correction
+## How to submit a correction
 
-Fork this repository, commit your data change to your fork's `main`, then open
-**your fork's** copy of this page and click a link below.
+**1. Fork this repository.**
 
-All links are relative, so they resolve against your fork. None of them
-contain your username.
+[Fork CMSPayerEndpointSeed](https://github.com/ftrotter-gov/CMSPayerEndpointSeed/fork)
 
-## Links under test
+**2. Commit your correction to your fork's `main`.**
 
-### Method 1 — Fork only, default template
+The data files are under [`payer_index_files/`](payer_index_files). The format
+is documented in the
+[payer well-known index format](https://github.com/ftrotter-gov/FederatedPayerIdentifier/blob/main/WellKnownFileFormat.md).
 
-[Open a pull request](../../compare/main?quick_pull=1)
+**3. Open this page on your fork and click the link below.**
 
-### Method 2 — Fork only, title and body in the link
+[**Open a data correction pull request**](../../compare/main?expand=1&title=Payer%20data%20correction%3A%20PAYER%20NAME&body=%23%23%23%20Which%20payer%20and%20which%20file%0A%0A%0A%23%23%23%20What%20is%20wrong%20with%20it%0A%0A%0A%23%23%23%20What%20it%20should%20say%0A%0A%0A%23%23%23%20Your%20relationship%20to%20this%20payer%2C%20or%20how%20this%20affects%20you%0A%0A)
 
-[Open a pull request](../../compare/main?quick_pull=1&title=Payer%20data%20correction&body=%23%23%23%20What%20data%20is%20wrong%0A%0A%0A%23%23%23%20What%20it%20should%20say%0A%0A%0A%23%23%23%20How%20to%20verify%20this%0A%0A)
+The form opens pre-filled. Replace `PAYER NAME` in the title, answer the
+questions, and submit.
 
-### Method 3 — Fork only, `expand=1` instead of `quick_pull=1`
-
-[Open a pull request](../../compare/main?expand=1&title=Payer%20data%20correction&body=%23%23%23%20What%20data%20is%20wrong%0A%0A%0A%23%23%23%20What%20it%20should%20say%0A%0A%0A%23%23%23%20How%20to%20verify%20this%0A%0A)
-
-### Method 4 — Fork only, no parameters
-
-[Open a pull request](../../compare/main)
-
-### Method 5 — Base pinned upstream, default template
-
-[Open a pull request](../../compare/ftrotter-gov:main...main?quick_pull=1)
-
-Names the upstream on the base side only. The head stays your fork, so your
-username is still not needed.
-
-### Method 6 — Base pinned upstream, title and body in the link
-
-[Open a pull request](../../compare/ftrotter-gov:main...main?quick_pull=1&title=Payer%20data%20correction&body=%23%23%23%20What%20data%20is%20wrong%0A%0A%0A%23%23%23%20What%20it%20should%20say%0A%0A%0A%23%23%23%20How%20to%20verify%20this%0A%0A)
-
-### Method 7 — Base pinned upstream with explicit repository name
-
-[Open a pull request](../../compare/ftrotter-gov:CMSPayerEndpointSeed:main...main?quick_pull=1&title=Payer%20data%20correction&body=%23%23%23%20What%20data%20is%20wrong%0A%0A%0A%23%23%23%20What%20it%20should%20say%0A%0A%0A%23%23%23%20How%20to%20verify%20this%0A%0A)
-
-Same as Method 6, but spells out the repository in case the short form is
-ambiguous.
-
-## What to record
-
-For each link: did a pull request form open, was the base the upstream
-repository, and was the body filled in?
+> The link is relative and must be clicked from **your fork's** copy of this
+> page:
+> `https://github.com/YOUR-USERNAME/CMSPayerEndpointSeed/blob/main/DataCorrections.md`
