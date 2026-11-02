@@ -1,6 +1,8 @@
 {
   "copied_from_url": null,
   "resourceType": "http://hl7.org/fhir/us/fast-ndh/StructureDefinition/NDHPayerWellknownDefinition",
+
+  
   "identifier": [
     {
       "system": "https://directory.cms.gov/payer_identification_system/fpi",
